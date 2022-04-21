@@ -3,3 +3,4 @@
 ![My animated logo](cont.png)
 
 # C# project 
+made by : Jacqueline Porral
